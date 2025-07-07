@@ -50,14 +50,18 @@ It’s made for **students, developers, educators, & curious minds** to break do
 1️⃣ **Clone this repo**
 - git clone https://github.com/YOUR_USERNAME/Code_Explainer.git
 - cd Code_Explainer
+  
 2️⃣ **Install the dependencies**
 - pip install -r requirements.txt
+  
 3️⃣ **Add your Gemini API key**
 - Open app.py and replace:
 - genai.configure(api_key="YOUR_GEMINI_API_KEY")
 ➡️ **Get your API key here.**
 - https://makersuite.google.com/app/apikey
+
 4️⃣ **Run it**
 - streamlit run app.py
+  
 5️⃣ **Upload sum.cpp or paste your own code — explain + quiz + download. Boom.**
 

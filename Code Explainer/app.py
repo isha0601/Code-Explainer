@@ -9,7 +9,7 @@ from reportlab.lib.units import inch
 import os
 
 # ---- Initialize Gemini ----
-genai.configure(api_key="AIzaSyDllowP3b5Q6zzRQmJBqPuKrHRF-8pgrcM")  # Replace with your Gemini API key
+genai.configure(api_key="Add_Your_Gemini_API_Key")  # Replace with your Gemini API key
 model = GenerativeModel('gemini-1.5-flash')
 
 # ---- Streamlit Config ----
